@@ -57,11 +57,4 @@ For the versions available, see the [tags on this repository](https://github.com
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Prevent file overriding
 
-After first generation, add edited files to _.openapi-generator-ignore_ to prevent generator to overwrite them. Typically:
-```
-server/controllers/*
-test/*
-*.txt
-```
