@@ -88,7 +88,7 @@ For more information, see review the Github Flow documentation.
 ## 1. Desing a kanban project from scratch to the first release and a new one between releases.
 
 ## 2. First release version starts from 1.0.0.
-	2.1. Semantic Versionin standard is followed (x.y.z).
+	2.1. Semantic Versioning Standard is followed (x.y.z).
 		2.1.1 x is a mayor release: has changes that may be incompatible with prior major releases.
 		2.1.2 y is a minor release: adds new functionality and bug fixes in a backwards
 		compatible manner.
