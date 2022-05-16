@@ -47,7 +47,7 @@ pytest
 ## Contributing
 
 Please read [CONTRIBUTING.md](
-https://github.com/masterdatascience-UIMP-UC/predictaas-api-server/blob/4948c008c4b0f9957d1803187569adb8274ccd4a/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+https://github.com/pcalatayud-prog/ML_repository/blob/main/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
