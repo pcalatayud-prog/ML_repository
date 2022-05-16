@@ -35,7 +35,7 @@ http://localhost:8080/api/v1/openapi.json
 To launch the integration tests, use pytest:
 ```
 sudo pip install -r test-requirements.txt
-pytest
+
 ```
 
 
